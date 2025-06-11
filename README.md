@@ -104,6 +104,9 @@ cd  exam-repo-second-semester
 sudo cp -r * ../
 ```
 
+#link to my git repo
+[my github repo](https://github.com/Adetokunbojulius/exam-repo-second-semester.git)
+
 **ABOUT PAGE**
 ![AboutMe](./Exam-Screenshot.jpg)
 
