@@ -108,7 +108,7 @@ sudo cp -r * ../
 [my github repo](https://github.com/Adetokunbojulius/exam-repo-second-semester.git)
 
 **ABOUT PAGE**
-![AboutMe](./Exam-Screenshot.jpg)
+![AboutMe](./EXAM%20IMAGE%20SCREENSHOT.png)
 
 <!-- ## **Using Ansible to install packages and deploy the git repo into the ec2 server**
 
